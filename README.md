@@ -1,6 +1,6 @@
 
 
-***Clean and Analyze Social Media Usage Data with Python***
+*****Clean and Analyze Social Media Usage Data with Python*****
 
 **Project Scenario**
 
