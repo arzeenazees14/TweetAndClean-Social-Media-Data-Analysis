@@ -29,9 +29,11 @@ Matplotlib: For data visualization.
 These packages are typically included in Coursera's Jupyter Notebook environment. However, if you need to install additional packages that are not included, you can do so using the following commands in a notebook cell:
 
 **python**
+
 Copy code
 
 !pip install pandas
+
 !pip install matplotlib
 
 **Project Scope**
