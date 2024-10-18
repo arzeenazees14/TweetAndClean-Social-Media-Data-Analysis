@@ -30,6 +30,7 @@ These packages are typically included in Coursera's Jupyter Notebook environment
 
 **python**
 Copy code
+
 !pip install pandas
 !pip install matplotlib
 
